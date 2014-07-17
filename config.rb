@@ -69,7 +69,7 @@ page "/feed.xml", layout: false
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-activate :livereload, host: "4567"
+# activate :livereload, host: "4567"
 
 # Methods defined in the helpers block are available in templates
 # helpers do
